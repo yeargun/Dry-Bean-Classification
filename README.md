@@ -2,8 +2,8 @@
 Dry Bean Classification data science project. Made using Apache Pyspark
 https://www.kaggle.com/datasets/muratkokludataset/dry-bean-dataset/code
 
-
-Beans Attributes:
+  
+Beans Attributes:  
 1.) Area (A): The area of a bean zone and the number of pixels within its boundaries.  
 2.) Perimeter (P): Bean circumference is defined as the length of its border.  
 3.) Major axis length (L): The distance between the ends of the longest line that can be drawn from a bean.  
